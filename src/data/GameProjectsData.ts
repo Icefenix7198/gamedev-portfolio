@@ -11,7 +11,7 @@ export default [
         <iframe class="youtube" src="https://www.youtube.com/embed/2vGoKwIQzf8?si=5HXr2gNqz1y4ZrxK" frameborder="0" allowfullscreen></iframe>
     </div>
     <div class="paragraph center">
-        <a href="https://play.google.com/store/apps/details?id=some.playstore.thing" target="_blank"><img src="img/projects/play-store-logo.png" alt="Itch.io badge" /></a>
+        <a href="https://cubicoblanco.itch.io/suits" target="_blank"><img src="img/projects/itchio-logo.svg" alt="Itch.io badge" /></a>
     </div>
 
     <div class="paragraph">
