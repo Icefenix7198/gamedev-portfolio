@@ -8,10 +8,10 @@ export default [
      <!-- <br/>Image by <a href="https://www.pexels.com/fr-fr/@knownasovan" target="_blank">OVAN</a>. -->
     </div>
     <div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/watch?v=2vGoKwIQzf8" frameborder="0" allowfullscreen></iframe>
+        <iframe class="youtube" src="https://www.youtube.com/embed/2vGoKwIQzf8?si=5HXr2gNqz1y4ZrxK" frameborder="0" allowfullscreen></iframe>
     </div>
     <div class="paragraph center">
-        <a href="https://play.google.com/store/apps/details?id=some.playstore.thing" target="_blank"><img src="img/projects/play-store-logo.png" alt="Play Store badge" /></a>
+        <a href="https://play.google.com/store/apps/details?id=some.playstore.thing" target="_blank"><img src="img/projects/play-store-logo.png" alt="Itch.io badge" /></a>
     </div>
 
     <div class="paragraph">
@@ -28,7 +28,7 @@ export default [
         <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="Optimistic Chubby Screenshot" />
         <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="Optimistic Chubby Screenshot" />
     </div>
-    `, "#23bd69", true),
+    `, "#23bd69", true,true),
     new ProjectData("project-2", "Chimeras", "img/projects/project-2-icon.png", `
     <div class="paragraph">
         <strong>Chimeras</strong> is a competiting deckbuilding board game where you combine animal parts to figth your oponents. I worked on the game balance of the game, deciding the stats of the cards.
