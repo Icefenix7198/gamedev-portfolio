@@ -25,13 +25,15 @@ export default [
     </div>
 
     <div class="paragraph center">
+    <!--
         <img src=img/projects/Suits_01.png" alt="Suits Image1" />
         <img src=img/projects/Suits_02.png" alt="Suits Image2" />
         <img src=img/projects/Suits_03.png" alt="Suits Image3" />
         <img src=img/projects/Suits_04.png" alt="Suits Image4" />
+        -->
         <!-- <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="Optimistic Chubby Screenshot" /> -->
     </div>
-    `, "#2797AE", true,true),
+    `, "#7649AD", true,true),
     new ProjectData("project-2", "Chimeras", "img/projects/project-2-icon.png", `
     <div class="paragraph">
         <strong>Chimeras</strong> is a competiting deckbuilding board game where you combine animal parts to figth your oponents. I worked on the game balance of the game, deciding the stats of the cards.
