@@ -1,10 +1,10 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-    new ProjectData("project-1", "Optimistic Chubby", "img/projects/project-1-icon.png", 
+    new ProjectData("project-1", "Suits", "img/projects/project-1-icon.png", 
     `
     <div class="paragraph">
-     <strong>Optimistic Chubby</strong> is a thing of beauty that I am so proud of. It's available on Android because why not.
+     <strong>Suits</strong> is a 2D Platfomer-Puzzle game developed for the 8th Gran CITM Game Jam, in which it obtained the Best Game award and an honorific mention of a prize by incorporating an intersectional gender perspective into storytelling. I worked as one of the main level designers participating in the creation of 4 of the 7 levels of the game. 
      <br/>Image by <a href="https://www.pexels.com/fr-fr/@knownasovan" target="_blank">OVAN</a>.
     </div>
     <div class="paragraph center">
@@ -17,10 +17,10 @@ export default [
     <div class="paragraph">
         Main features :
         <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
+        <li>Game Narrative about self-exploration and acceptance. </li>
+        <li>6 levels, one with an alternative version depending of the choices of the player. </li>
+        <li>A corpse mechanic where the player leaves shells of its former self to use as platforms and more. </li>
+        <li>And a multiple worlds mechanic where the player can see new things by rotating a cube. </li>
         </ul>
     </div>
 
@@ -29,9 +29,9 @@ export default [
         <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="Optimistic Chubby Screenshot" />
     </div>
     `, "#23bd69", true),
-    new ProjectData("project-2", "Singing Addict", "img/projects/project-2-icon.png", `
+    new ProjectData("project-2", "Chimeras", "img/projects/project-2-icon.png", `
     <div class="paragraph">
-        <strong>Optimistic Chubby Blog</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
+        <strong>Chimeras</strong> is a competiting deckbuilding board game where you combine animal parts to figth your oponents. I worked on the game balance of the game, deciding the stats of the cards.
         <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@adonyi-gabor-604571">Adonyi Gábor</a>.
     </div>
     <div class="paragraph center">
@@ -41,17 +41,15 @@ export default [
     <div class="paragraph">
         Main features :
         <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
+        <li>A game for 2 to 4 players</li>
+        <li>100 different cards</li>
+        <li>Elemental affinity mechanic that give more depth to which animal parts to use</li>
         </ul>
     </div>
 
     <div class="paragraph">
     <div class="notice">
-        Windows build available on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-        Source code is available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
+        Rulebook available on <a href="https://drive.google.com/file/d/1G_u2itUwEb2oRL0irykxBWPwe6CEnRQ3/view?usp=sharing" target="_blank">PDF</a>.
     </div>
     </div>
 
@@ -62,9 +60,9 @@ export default [
     <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Singing Addict Screenshot" />
     </div>
     `, "#5a78af"),
-    new ProjectData("project-3", "Drawing Overload", "img/projects/project-3-icon.png", `
+    new ProjectData("project-3", "Twisted Tents", "img/projects/project-3-icon.png", `
     <div class="paragraph">
-        <strong>Drawing Overload</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
+        <strong>Twisted Tents</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
         <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@miphotography">Miesha Maiden</a>.
     </div>
     <div class="paragraph center">
