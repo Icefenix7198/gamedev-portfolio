@@ -1,14 +1,14 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-    new ProjectData("project-1", "Suits", "img/projects/project-1-icon.png", 
+    new ProjectData("project-1", "Suits", "img/projects/Suits.png", 
     `
     <div class="paragraph">
      <strong>Suits</strong> is a 2D Platfomer-Puzzle game developed for the 8th Gran CITM Game Jam, in which it obtained the Best Game award and an honorific mention of a prize by incorporating an intersectional gender perspective into storytelling. I worked as one of the main level designers participating in the creation of 4 of the 7 levels of the game. 
-     <br/>Image by <a href="https://www.pexels.com/fr-fr/@knownasovan" target="_blank">OVAN</a>.
+     <!-- <br/>Image by <a href="https://www.pexels.com/fr-fr/@knownasovan" target="_blank">OVAN</a>. -->
     </div>
     <div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+        <iframe class="youtube" src="https://www.youtube.com/watch?v=2vGoKwIQzf8" frameborder="0" allowfullscreen></iframe>
     </div>
     <div class="paragraph center">
         <a href="https://play.google.com/store/apps/details?id=some.playstore.thing" target="_blank"><img src="img/projects/play-store-logo.png" alt="Play Store badge" /></a>
