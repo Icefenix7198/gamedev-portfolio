@@ -53,7 +53,7 @@ export default [
 
     <div class="paragraph">
     <div class="notice">
-        Rulebook available on <a href="https://drive.google.com/file/d/1G_u2itUwEb2oRL0irykxBWPwe6CEnRQ3/view?usp=sharing" target="_blank">PDF</a>.
+        Rulebook available on <a href="https://drive.google.com/file/d/1G_u2itUwEb2oRL0irykxBWPwe6CEnRQ3/view?usp=sharing" target="_blank">PDF</a> (Spanish Only).
     </div>
     </div>
 
