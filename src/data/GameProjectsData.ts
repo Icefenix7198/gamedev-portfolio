@@ -25,10 +25,10 @@ export default [
     </div>
 
     <div class="paragraph center">
-        <img class="phone-screenshot" src=img/projects/Suits_01.png" alt="Suits Image" />
-        <img class="phone-screenshot" src=img/projects/Suits_02.png" alt="Suits Image" />
-        <img class="phone-screenshot" src=img/projects/Suits_03.png" alt="Suits Image" />
-        <img class="phone-screenshot" src=img/projects/Suits_04.png" alt="Suits Image" />
+        <img class="phone-screenshot" src=img/projects/Suits_01.png" alt="Suits Image1" />
+        <img class="phone-screenshot" src=img/projects/Suits_02.png" alt="Suits Image2" />
+        <img class="phone-screenshot" src=img/projects/Suits_03.png" alt="Suits Image3" />
+        <img class="phone-screenshot" src=img/projects/Suits_04.png" alt="Suits Image4" />
         <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="Optimistic Chubby Screenshot" />
     </div>
     `, "#2797AE", true,true),
