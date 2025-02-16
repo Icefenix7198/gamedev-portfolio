@@ -34,10 +34,9 @@ export default [
         <!-- <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="Optimistic Chubby Screenshot" /> -->
     </div>
     `, "#7649AD", true,true),
-    new ProjectData("project-2", "Chimeras", "img/projects/project-2-icon.png", `
+    new ProjectData("project-2", "Chimeras", "img/projects/Chimeras.png", `
     <div class="paragraph">
         <strong>Chimeras</strong> is a competiting deckbuilding board game where you combine animal parts to figth your oponents. I worked on the game balance of the game, deciding the stats of the cards.
-        <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@adonyi-gabor-604571">Adonyi Gábor</a>.
     </div>
     <div class="paragraph center">
         <iframe class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
@@ -59,12 +58,9 @@ export default [
     </div>
 
     <div class="paragraph center">
-    <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Singing Addict Screenshot" />
-    <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Singing Addict Screenshot" />
-    <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Singing Addict Screenshot" />
-    <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Singing Addict Screenshot" />
+
     </div>
-    `, "#5a78af"),
+    `, "#5a78af",true,false),
     new ProjectData("project-3", "Twisted Tents", "img/projects/project-3-icon.png", `
     <div class="paragraph">
         <strong>Twisted Tents</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
