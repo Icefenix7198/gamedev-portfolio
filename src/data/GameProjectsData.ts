@@ -63,11 +63,11 @@ export default [
     `, "#5a78af",true,false),
     new ProjectData("project-3", "Twisted Tents", "img/projects/project-3-icon.png", `
     <div class="paragraph">
-        <strong>Twisted Tents</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-        <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@miphotography">Miesha Maiden</a>.
+        <strong>Twisted Tents</strong> is a small RPG made by a team of 9 people over the course of 4 months. In this short game you will follow a magician who tries to flee from a cursed wandering circus full of monster. For this game I almost fully designed the combat system, designed all the monsters and characther stats , designed the dungeon layouts and helped in the developement of the features in the game.
+        <br/>Teams <a target="_blank" href="https://lsara-mm.github.io/Project-II-RPG/"> github page</a>.
     </div>
     <div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+        <iframe class="youtube" src="https://www.youtube.com/embed/sCTet2msyBs?si=MRCtvuc6q2O_dr2q" frameborder="0" allowfullscreen></iframe>
     </div>
 
     <div class="paragraph">
