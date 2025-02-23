@@ -4,17 +4,17 @@
 
     <div class="paragraph">
       <div>
-        I'm <strong>John Matrix</strong>, a former Delta Force operative, now a hobbyist lumberjack.<br/>
-        I spend my days living alone with my daughter Jenny, and cutting trees and carrying trunks around to keep in shape.
+        I'm a video game design and development student from Spain, primarily focused on the <strong>design</strong> side of development. While my main interest lies in design, specially character design and level design, I also enjoy the programing aspects of video games, although in the last one I'm currently lacking.<br/>
+        While my main interest lies in design, specially characther design and level design , I also enjoy the programing aspects of videogames, although I'm more lacking in this aspect.
       </div>
 
-      <div style="margin-top: 20px;">I've worked on  <router-link to="/game-projects">stuff</router-link>, on <router-link to="/other-projects">other stuff</router-link>, and took part in <router-link to="/resume">a few things</router-link> as well.</div>
+      <!--<div style="margin-top: 20px;">I've worked on  <router-link to="/game-projects">stuff</router-link>, on <router-link to="/other-projects">other stuff</router-link>, and took part in <router-link to="/resume">a few things</router-link> as well.</div> -->
 
-      <div style="margin-top: 40px;">I'm <strong>currently looking for a job</strong> as a monk, like my good friend John Rambo did a few years back. You can reach me at <a href="mailto:johnmatrix@deltaforce.us">johnmatrix@deltaforce.us</a> or <router-link to="/contact">through here</router-link>.</div>
+      <div style="margin-top: 40px;">Aside from video games, I am also passionate in martial arts, specifically judo, in which I achieved the rank of black belt, and board games, primary tabletop roleplaying games, as they allow to create stories with other people in an immersive way.</div>
     </div>
 
     <div class="photo">
-      <img src="img/avatar.png" alt="Avatar of John" /> 
+      <img src="img/avatarMe.png" alt="Avatar of John" /> 
     </div>
 
     <div style="clear:both"></div>
