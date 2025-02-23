@@ -65,7 +65,7 @@ export default [
 
     </div>
     `, "#5a78af",true,false),
-    new ProjectData("project-3", "Twisted Tent", "twistedTent.png", `
+    new ProjectData("project-3", "Twisted Tent", "img/projects/twistedTent.png", `
     <div class="paragraph">
         <strong>Twisted Tents</strong> is a small RPG made by a team of 9 people over the course of 4 months. In this short game you will follow a magician who tries to flee from a cursed wandering circus full of monster. 
         <br/><br/>
@@ -98,7 +98,7 @@ export default [
         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
     </div>
-    `, "#383838"),
+    `, "#383838",false,true),
     new ProjectData("project-4", "Eugeneable", "img/projects/project-4-icon.png", `
     <div class="paragraph">
     <strong>Eugeneable</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
