@@ -65,7 +65,7 @@ export default [
 
     </div>
     `, "#5a78af",true,false),
-    new ProjectData("project-3", "Twisted Tents", "twistedTents.png", `
+    new ProjectData("project-3", "Twisted Tent", "twistedTent.png", `
     <div class="paragraph">
         <strong>Twisted Tents</strong> is a small RPG made by a team of 9 people over the course of 4 months. In this short game you will follow a magician who tries to flee from a cursed wandering circus full of monster. 
         <br/><br/>
