@@ -4,7 +4,9 @@ export default [
     new ProjectData("project-1", "Suits", "img/projects/Suits.png", 
     `
     <div class="paragraph">
-     <strong>Suits</strong> is a 2D Platfomer-Puzzle game developed for the 8th Gran CITM Game Jam, in which it obtained the Best Game award and an honorific mention of a prize by incorporating an intersectional gender perspective into storytelling. I worked as one of the main level designers participating in the creation of 4 of the 7 levels of the game. 
+     <strong>Suits</strong> is a 2D Platfomer-Puzzle game developed for the 8th Gran CITM Game Jam, in which it obtained the Best Game award and an honorific mention of a prize by incorporating an intersectional gender perspective into storytelling.
+     <br/><br/>
+     I worked as one of the main level designers participating in the creation of 4 of the 7 levels of the game, specially on the last level using the 3 shapes. I also worked on the development of some mechanics as the areas that forbid players movements but not corpses 
      <!-- <br/>Image by <a href="https://www.pexels.com/fr-fr/@knownasovan" target="_blank">OVAN</a>. -->
     </div>
     <div class="paragraph center">
@@ -36,7 +38,9 @@ export default [
     `, "#7649AD", true,true),
     new ProjectData("project-2", "Chimeras", "img/projects/Chimeras.png", `
     <div class="paragraph">
-        <strong>Chimeras</strong> is a competiting deckbuilding board game where you combine animal parts to figth your oponents. I worked on the game balance of the game, deciding the stats of the cards.
+        <strong>Chimeras</strong> is a competing deckbuilding board game where you combine animal parts to figth your oponents.
+        <br/><br/>
+        I worked on the game balance of the game and designed the elemental affinity system with other members of the team to have each synergy balanced against each other.
     </div>
     <div class="paragraph center">
         <iframe class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
@@ -61,9 +65,11 @@ export default [
 
     </div>
     `, "#5a78af",true,false),
-    new ProjectData("project-3", "Twisted Tents", "img/projects/project-3-icon.png", `
+    new ProjectData("project-3", "Twisted Tents", "twistedTents.png", `
     <div class="paragraph">
-        <strong>Twisted Tents</strong> is a small RPG made by a team of 9 people over the course of 4 months. In this short game you will follow a magician who tries to flee from a cursed wandering circus full of monster. For this game I almost fully designed the combat system, designed all the monsters and characther stats , designed the dungeon layouts and helped in the developement of the features in the game.
+        <strong>Twisted Tents</strong> is a small RPG made by a team of 9 people over the course of 4 months. In this short game you will follow a magician who tries to flee from a cursed wandering circus full of monster. 
+        <br/><br/>
+        For this game I almost fully designed the combat system, designed all the monsters and characther stats , designed the dungeon layouts and helped in the developement of the features in the game.
         <br/>Teams <a target="_blank" href="https://lsara-mm.github.io/Project-II-RPG/"> github page</a>.
     </div>
     <div class="paragraph center">
@@ -73,17 +79,16 @@ export default [
     <div class="paragraph">
         Main features :
         <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
+        <li>2 compleate dungeons with puzzles, 3 diffent unique enemies and a boss</li>
+        <li>4 different playable characthers</li>
+        <li>Darkest Dungeon inspired combat with status effect, stat increases</li>
+        <li>Crafting system to create potions and equipment </li>
         </ul>
     </div>
 
     <div class="paragraph">
         <div class="notice">
-        Playable in the browser (WebGL) on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-        Source code is available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
+        Windows build available on <a href="https://lsara-mm.github.io/Project-II-RPG/" target="_blank"> GitHub</a>
         </div>
     </div>
 
