@@ -161,6 +161,10 @@ export default [
         <br/><br/>
         For this project I designed and programmed the mechanics from Freddy wwhere you need to return the plushies to the shelf they come from or suffer different negative effects, the last one being losing the usage of the flashligth, needed to stop the attack of another animatronic. I also designed all the timings in the 3 different game difficulties to ensure that never to animatronics that require quick action succeded at the same moment making the game unfair.
     </div>
+
+     <div class="paragraph center">
+        <iframe class="youtube" src="https://www.youtube.com/embed/TcRgWKulf7I?si=XmJ8VNtdWZaO0AYy" frameborder="0" allowfullscreen></iframe>
+    </div>
     
     <div class="paragraph">
         Main features :
@@ -176,10 +180,6 @@ export default [
         Source code and windows build available on <a href="https://github.com/TheimerTR/Five-Nights-At-Pedro-s" target="_blank">GitHub</a>.
         </div>
     </div>
-
-    <div class="paragraph center">
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
+    
     </div>`, "#245AA8")
 ];
