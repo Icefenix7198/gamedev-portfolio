@@ -9,6 +9,7 @@ export default [
      I worked as one of the main level designers participating in the creation of 4 of the 7 levels of the game, specially on the last level using the 3 shapes. I also worked on the development of some mechanics as the areas that forbid players movements but not corpses 
      <!-- <br/>Image by <a href="https://www.pexels.com/fr-fr/@knownasovan" target="_blank">OVAN</a>. -->
     </div>
+    
     <div class="paragraph center">
         <iframe class="youtube" src="https://www.youtube.com/embed/2vGoKwIQzf8?si=5HXr2gNqz1y4ZrxK" frameborder="0" allowfullscreen></iframe>
     </div>
@@ -43,7 +44,7 @@ export default [
         I worked on the game balance of the game and designed the elemental affinity system with other members of the team to have each synergy balanced against each other.
     </div>
     <div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+        <img src="img/projects/ChimerasBoard.png" alt="Board">
     </div>
 
     <div class="paragraph">
@@ -91,20 +92,20 @@ export default [
         Windows build available on <a href="https://lsara-mm.github.io/Project-II-RPG/" target="_blank"> GitHub</a>
         </div>
     </div>
-
-    <div class="paragraph center">
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-    </div>
+    
     `, "#B31A0B",false,true),
     new ProjectData("project-4", "Dreamward", "img/projects/Dreamward.png", `
     <div class="paragraph">
     <strong>Dreamward</strong> is a 2D Bossrush game developed for the 7th Gran CITM Game Jam, in which it obtained an honorific mention of best art.
     <br/><br/>
     For this project I designed and programmed compleatly the Wolf boss and design and developed with another member of the team the Storm boss.
+    </div>
     
+    <div class="paragraph center">
+        <iframe class="youtube" src="https://www.youtube.com/embed/waMiOhoDho8?si=Ivgd16hvaTy0NCGH" frameborder="0" allowfullscreen></iframe>
+    </div>
+     <div class="paragraph center">
+        <a href="https://cubicoblanco.itch.io/dreamward" target="_blank"><img src="img/projects/itchio-logo.svg" alt="Itch.io badge" /></a>
     </div>
     
     <div class="paragraph">
@@ -114,12 +115,6 @@ export default [
         <li>Combat with stamina managing</li>
         <li>Nigthmare mode, where the bosses must be compleated no hit.</li>
         </ul>
-    </div>
-
-    <div class="paragraph">
-        <div class="notice">
-        Windows build available on <a href="https://cubicoblanco.itch.io/dreamward" target="_blank">itch.io</a>.
-        </div>
     </div>
 
     `, "#4B2F7B"),
@@ -144,10 +139,14 @@ export default [
         </ul>
     </div>
 
+<div class="paragraph center">
+        <iframe class="youtube" src="https://www.youtube.com/embed/8LsSLKn95OM?si=OYJdpuwoCAaZ2C21" frameborder="0" allowfullscreen></iframe>
+    </div>
+
     <div class="paragraph">
         <div class="notice">
         Windows build available on <a href="https://clapcom-studios.github.io/Website/#" target="_blank"> project page</a>.
-        Source code available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
+        Source code available on <a href="https://github.com/Clapcom-Studios/Alien-Extraction" target="_blank">GitHub</a>.
         </div>
     </div>
 
