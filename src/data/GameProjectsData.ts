@@ -128,6 +128,10 @@ export default [
     
     </div>
     
+    <div class="paragraph center">
+        <iframe class="youtube" src="https://www.youtube.com/embed/8LsSLKn95OM?si=OYJdpuwoCAaZ2C21" frameborder="0" allowfullscreen></iframe>
+    </div>
+    
     <div class="paragraph">
         Main features :
         <ul>
@@ -139,9 +143,7 @@ export default [
         </ul>
     </div>
 
-<div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/embed/8LsSLKn95OM?si=OYJdpuwoCAaZ2C21" frameborder="0" allowfullscreen></iframe>
-    </div>
+
 
     <div class="paragraph">
         <div class="notice">
@@ -150,10 +152,6 @@ export default [
         </div>
     </div>
 
-    <div class="paragraph center">
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
     </div>`, "#0D3E10"),
     new ProjectData("project-5", "Five Nigths at Pedro's", "img/projects/FNAF.png", `
     <div class="paragraph">
