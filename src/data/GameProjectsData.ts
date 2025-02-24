@@ -156,7 +156,7 @@ export default [
         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
     </div>`, "#0D3E10"),
-    new ProjectData("project-5", "Five Nigths at Pedro's", "img/projects/project-5-icon.png", `
+    new ProjectData("project-5", "Five Nigths at Pedro's", "img/projects/FNAF.png", `
     <div class="paragraph">
         <strong>Five Nigths at Pedro's</strong> is a VR horror game inspired by the Five Nigths at Freddie's game franchise. In the game you will need to avoid being attacked by Animatronics by doing specific things like changing the TV channel when publicity kicks on or move to the blind spot of the door.
         <br/><br/>
