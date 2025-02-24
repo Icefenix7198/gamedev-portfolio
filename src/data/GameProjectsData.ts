@@ -158,24 +158,23 @@ export default [
     </div>`, "#e48246"),
     new ProjectData("project-5", "Five Nigths at Pedro's", "img/projects/project-5-icon.png", `
     <div class="paragraph">
-        <strong>Cloud Drew Land</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-        <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@cottonbro">cottonbro</a>.
+        <strong>Five Nigths at Pedro's</strong> is a VR horror game inspired by the Five Nigths at Freddie's game franchise. In the game you will need to avoid being attacked by Animatronics by doing specific things like changing the TV channel when publicity kicks on or move to the blind spot of the door.
+        <br/><br/>
+        For this project I designed and programmed the mechanics from Freddy wwhere you need to return the plushies to the shelf they come from or suffer different negative effects, the last one being losing the usage of the flashligth, needed to stop the attack of another animatronic. I also designed all the timings in the 3 different game difficulties to ensure that never to animatronics that require quick action succeded at the same moment making the game unfair.
     </div>
     
     <div class="paragraph">
         Main features :
         <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
+        <li>5 diffent enemies with its own ways to avoid them</li>
+        <li>VR game with 2 diffent translation modes</li>
+        <li>Difficulty selector</li>
         </ul>
     </div>
 
     <div class="paragraph">
         <div class="notice">
-        Windows build available on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-        Source code available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
+        Source code and windows build available on <a href="https://github.com/TheimerTR/Five-Nights-At-Pedro-s" target="_blank">GitHub</a>.
         </div>
     </div>
 
