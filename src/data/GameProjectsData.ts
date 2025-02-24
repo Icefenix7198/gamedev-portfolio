@@ -99,34 +99,64 @@ export default [
         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
     </div>
     `, "#383838",false,true),
-    new ProjectData("project-4", "Eugeneable", "img/projects/project-4-icon.png", `
+    new ProjectData("project-4", "Dreamward", "img/projects/Dreamward.png", `
     <div class="paragraph">
-    <strong>Eugeneable</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-    <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@neo8iam">NEOSiAM 2020</a>.
+    <strong>Dreamward</strong> is a 2D Bossrush game developed for the 7th Gran CITM Game Jam, in which it obtained an honorific mention of best art.
+    <br/><br/>
+    For this project I designed and programmed compleatly the Wolf boss and design and developed with another member of the team the Storm boss.
+    
     </div>
     
     <div class="paragraph">
         Main features :
         <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
+        <li>2D Hack n'Slash Boss Rush with 3 different bosses</li>
+        <li>Combat with stamina managing</li>
+        <li>Nigthmare mode, where the bosses must be compleated no hit.</li>
         </ul>
     </div>
 
     <div class="paragraph">
         <div class="notice">
-        Windows build available on <a href="https://some.where/nice" target="_blank">itch.io</a>.
+        Windows build available on <a href="https://cubicoblanco.itch.io/dreamward" target="_blank">itch.io</a>.
+        </div>
+    </div>
+
+    `, "#e80fb7"),
+    new ProjectData("project-5", "Alien: Extraction", "img/projects/AlienExtraction.png", `
+    <div class="paragraph">
+        <strong>Alien: Extraction</strong> is a Diablo-like extraction game based on the Alien IP made by a group of 33 people with a custom engine over the span of 4 montgs.
+        In this game you will play as Raisen, an human-alien hybrid with the porpuse of investigating the lab as you collect materials and upgrade your weapons.
+    </br></br>
+    For this game I worked on the characther design from the begining, helping the art team with a moodboard for
+    conceptualing the main characther, designing the characther skills,weapons and balancing all their stats. I also helped other team members to balance enemies drops.
+    
+    </div>
+    
+    <div class="paragraph">
+        Main features :
+        <ul>
+        <li>3 different levels with increasing difficulty and different enviroments</li>
+        <li>3 different enemies, with the possibility to be basic,rare or elit increasing its stat, and and a final boss</li>
+        <li>3 different weapons (SMG,Shootgun,Plasma Cannon) with 4 upgrades each, the final ones being an split choice</li>
+        <li>System of inventory and crafting to make equipment (armor and chips) and consumables</li>
+        <li>Player with 3 different abilities, a ranged attack, an speed and reload boost and a tail sweep</li>
+        </ul>
+    </div>
+
+    <div class="paragraph">
+        <div class="notice">
+        Windows build available on <a href="https://clapcom-studios.github.io/Website/#" target="_blank"> project page</a>.
+        Source code available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
         </div>
     </div>
 
     <div class="paragraph center">
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
-    </div>
-    `, "#e80fb7"),
-    new ProjectData("project-5", "Cloud Drew Land", "img/projects/project-5-icon.png", `
+        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
+        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
+        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
+    </div>`, "#e48246"),
+    new ProjectData("project-5", "Five Nigths at Pedro's", "img/projects/project-5-icon.png", `
     <div class="paragraph">
         <strong>Cloud Drew Land</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
         <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@cottonbro">cottonbro</a>.
