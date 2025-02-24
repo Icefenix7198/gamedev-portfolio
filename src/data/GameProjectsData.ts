@@ -64,7 +64,7 @@ export default [
     <div class="paragraph center">
 
     </div>
-    `, "#5a78af",true,false),
+    `, "#951990",true,false),
     new ProjectData("project-3", "Twisted Tent", "img/projects/twistedTent.png", `
     <div class="paragraph">
         <strong>Twisted Tents</strong> is a small RPG made by a team of 9 people over the course of 4 months. In this short game you will follow a magician who tries to flee from a cursed wandering circus full of monster. 
@@ -98,7 +98,7 @@ export default [
         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
     </div>
-    `, "#383838",false,true),
+    `, "#B31A0B",false,true),
     new ProjectData("project-4", "Dreamward", "img/projects/Dreamward.png", `
     <div class="paragraph">
     <strong>Dreamward</strong> is a 2D Bossrush game developed for the 7th Gran CITM Game Jam, in which it obtained an honorific mention of best art.
@@ -122,7 +122,7 @@ export default [
         </div>
     </div>
 
-    `, "#e80fb7"),
+    `, "#4B2F7B"),
     new ProjectData("project-5", "Alien: Extraction", "img/projects/AlienExtraction.png", `
     <div class="paragraph">
         <strong>Alien: Extraction</strong> is a Diablo-like extraction game based on the Alien IP made by a group of 33 people with a custom engine over the span of 4 montgs.
@@ -155,7 +155,7 @@ export default [
         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
-    </div>`, "#e48246"),
+    </div>`, "#0D3E10"),
     new ProjectData("project-5", "Five Nigths at Pedro's", "img/projects/project-5-icon.png", `
     <div class="paragraph">
         <strong>Five Nigths at Pedro's</strong> is a VR horror game inspired by the Five Nigths at Freddie's game franchise. In the game you will need to avoid being attacked by Animatronics by doing specific things like changing the TV channel when publicity kicks on or move to the blind spot of the door.
@@ -182,5 +182,5 @@ export default [
         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
-    </div>`, "#e48246")
+    </div>`, "#245AA8")
 ];
