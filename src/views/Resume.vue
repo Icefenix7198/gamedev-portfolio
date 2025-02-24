@@ -15,7 +15,7 @@
 
       <div style="margin-top:20px; margin-bottom:20px;">
         <a class="download-link" href="d/resume-en.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF 🇬🇧</a>
-        <a class="download-link" href="d/cv-fr.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Télécharger en PDF 🇫🇷</a>
+        <a class="download-link" href="d/cv-fr.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Descargar en PDF 🇫🇷</a>
         <div style="clear:both"></div>
       </div>
     </div>
@@ -26,6 +26,8 @@
     <div style="clear:both"></div>
 
     <div class="full-content">
+
+      <!--
       <h2>Work experience</h2>
 
       <h3>Operation Classified - Delta Force</h3>
@@ -48,7 +50,7 @@
       <div>It's classified so I can't speak about it.</div>
 
       <div class="tech-stack">Firearms, knives, grenades, Hummer vehicle, parachute,...</div>
-
+-->
       <h2>Skills</h2>
 
       <div class="skill-set">
@@ -73,19 +75,24 @@
 
       <h2>Education</h2>
 
-      <h3>Kindergarten - 1985</h3>
-      <h4>Kindergarten degree</h4>
-      <div>Specialty in bullying and fighting (58 wins, 58 K-O, 0 losses)</div>
+      <h3>Colegi Mare de Deu dels Angels (2019-2021)</h3>
+      <h4>Technological Baccalaureate</h4>
+
+      <h3>Centre de la Imatge i la Tecnologia Multimedia(CITM) — UPC (2021-Current)</h3>
+      <h4>Degree in Video Game Design and Development</h4>
 
       <h2>Languages</h2>
 
-      <h3>American</h3>
-      <div>Basic knowledge but I know lots of one-liners</div>
+      <h3>Spanish</h3>
+      <div>Native Level</div>
 
-      <h3>That's it</h3>
-      <div>Who needs another language when you speak American?</div>
+      <h3>Catalan</h3>
+      <div>Native Level</div>
 
+      <h3>English</h3>
+      <div>C1 level</div>
 
+<!--
       <h2>Besides...</h2>
       <div>
         <h3>I ❤️ Violence</h3>
@@ -99,7 +106,7 @@
 
         <h3>I 💚 Flowers</h3>
         <div>Especially the big ones, with the trunk and leaves.</div>
-
+-->
       </div>
     </div>
   </div>
