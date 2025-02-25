@@ -95,9 +95,9 @@ export default [
 
     </br>
     <div class="paragraph center">
-        <img src="img/projects/TwistedTent_Dungeon1.jpg" alt="Board">
+        <img src="img/projects/TwistedTent_Dungeon1.jpg" alt="Board" style="float:left">
     </div><div class="paragraph center">
-        <img src="img/projects/TwistedTent_Dungeon2.jpg" alt="Board">
+        <img src="img/projects/TwistedTent_Dungeon2.jpg" alt="Board" style="float:rigth">
     </div>
     
     `, "#B31A0B",false,true),
