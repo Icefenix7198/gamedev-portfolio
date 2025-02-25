@@ -63,7 +63,7 @@
         <SkillRate name="Wwise" :rate="2" />
       </div>
 
-      <div class="Other Skills">
+      <div class="Other Skills" style="float:right>
         <h3>Other Skills</h3>
         <SkillRate name="Unity" :rate="4" />
         <SkillRate name="Excel" :rate="4" />
