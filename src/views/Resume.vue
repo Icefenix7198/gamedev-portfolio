@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>Resume</h1>
-
+<!--
     <div class="paragraph">
       I'm <strong>John Matrix</strong>, a former Delta Force operative with lots of experience, lots of training and huge muscles.
       <br />After graduating from kindergarten, I've been enrolled in the army for 25 years, where I learned to destroy things in an amazing number of ways.
@@ -12,7 +12,7 @@
       <router-link to="/contact">contact me</router-link>.
       <br />
       <br />Besides war, I'm passionate about firearms, martial arts, explosions, push-ups and flowers.
-
+-->
       <div style="margin-top:20px; margin-bottom:20px;">
         <a class="download-link" href="d/resume-en.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF 🇬🇧</a>
         <a class="download-link" href="d/cv-fr.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Descargar en PDF 🇫🇷</a>
