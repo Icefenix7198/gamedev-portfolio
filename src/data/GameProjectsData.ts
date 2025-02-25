@@ -34,7 +34,6 @@ export default [
         <img src=img/projects/Suits_03.png" alt="Suits Image3" />
         <img src=img/projects/Suits_04.png" alt="Suits Image4" />
         -->
-        <!-- <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="Optimistic Chubby Screenshot" /> -->
     </div>
     `, "#7649AD", true,true),
     new ProjectData("project-2", "Chimeras", "img/projects/Chimeras.png", `
@@ -67,12 +66,14 @@ export default [
     </div>
     `, "#951990",true,false),
     new ProjectData("project-3", "Twisted Tent", "img/projects/twistedTent.png", `
+    
     <div class="paragraph">
         <strong>Twisted Tents</strong> is a small RPG made by a team of 9 people over the course of 4 months. In this short game you will follow a magician who tries to flee from a cursed wandering circus full of monster. 
         <br/><br/>
         For this game I almost fully designed the combat system, designed all the monsters and characther stats , designed the dungeon layouts and helped in the developement of the features in the game.
         <br/>Teams <a target="_blank" href="https://lsara-mm.github.io/Project-II-RPG/"> github page</a>.
     </div>
+    
     <div class="paragraph center">
         <iframe class="youtube" src="https://www.youtube.com/embed/sCTet2msyBs?si=MRCtvuc6q2O_dr2q" frameborder="0" allowfullscreen></iframe>
     </div>
@@ -92,14 +93,12 @@ export default [
         Windows build available on <a href="https://lsara-mm.github.io/Project-II-RPG/" target="_blank"> GitHub</a>
         </div>
     </div>
-</div>
-    </br>
+    
 <center>
         <img src="img/projects/TwistedTent_Dungeon1.png" alt="Dungeon1" >
         <img src="img/projects/TwistedTent_Dungeon2.png" alt="Dungeon2" >
 </center>
 
-    </div>
         
     
     
