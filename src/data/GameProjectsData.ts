@@ -95,8 +95,8 @@ export default [
 </div>
     </br>
 <center>
-        <img src="img/projects/TwistedTent_Dungeon1.jpg" alt="Board" style="float:left">
-        <img src="img/projects/TwistedTent_Dungeon2.jpg" alt="Board" style="float:rigth">
+        <img src="img/projects/TwistedTent_Dungeon1.png" alt="Dungeon1" >
+        <img src="img/projects/TwistedTent_Dungeon2.png" alt="Dungeon2" >
 </center>
 
     </div>
