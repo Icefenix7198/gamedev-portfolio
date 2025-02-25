@@ -129,8 +129,8 @@ export default [
     `, "#4B2F7B"),
     new ProjectData("project-5", "Alien: Extraction", "img/projects/AlienExtraction.png", `
     <div class="paragraph">
-        <strong>Alien: Extraction</strong> is a Diablo-like extraction game based on the Alien IP made by a group of 33 people with a custom engine over the span of 4 montgs.
-        In this game you will play as Raisen, an human-alien hybrid with the porpuse of investigating the lab as you collect materials and upgrade your weapons.
+        <strong>Alien: Extraction</strong> is a Diablo-like extraction game based on the Alien IP made by a group of 33 people with a custom engine over the span of 4 months.
+        In this game you will play as Raisen, an human-alien hybrid with the pourpose of investigating the lab as you collect materials and upgrade your weapons.
     </br></br>
     For this game I worked on the characther design from the begining, helping the art team with a moodboard for
     conceptualing the main characther, designing the characther skills,weapons and balancing all their stats. I also helped other team members to balance enemies drops.
