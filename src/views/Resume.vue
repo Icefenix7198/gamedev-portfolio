@@ -55,7 +55,7 @@
 
       <div class="skill-set">
         <h3>Lethal</h3>
-        <SkillRate name="Handguns" :rate="5" />
+        <SkillRate name="Handguns" :rate="2.5" />
         <SkillRate name="Rifles" :rate="5" />
         <SkillRate name="Shotguns" :rate="5" />
         <SkillRate name="Machineguns" :rate="5" />
