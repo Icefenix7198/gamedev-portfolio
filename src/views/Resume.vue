@@ -72,7 +72,7 @@
         <SkillRate name="Adobe Ilustrator" :rate="3" />
         <SkillRate name="Maya" :rate="2" />
         <SkillRate name="Substance Painter" :rate="1" />
-      </div <!--style="float:right -->>
+      </div>
       <div style="clear:both" />
 
       <h2>Education</h2>
