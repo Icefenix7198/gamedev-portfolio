@@ -30,7 +30,7 @@ export default [
           <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Sultans Of Sing Screenshot" /> 
         </div>
         -->
-    `, "#c10606", false, true),
+    `, "#c10606", true, true),
     new ProjectData("project-7", "Drew Blood", "img/projects/project-7-icon.png", `
     <div class="paragraph">
                 <strong>Drew Blood</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
