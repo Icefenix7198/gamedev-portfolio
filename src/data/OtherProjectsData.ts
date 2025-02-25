@@ -1,12 +1,13 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-    new ProjectData("project-6", "Factorial(!)", "img/projects/Factorial.png", `
+    new ProjectData("project-6", "Factorial(!)", "img/projects/Factorial.gif", `
     <div class="paragraph">
       <strong>Factorial(!)</strong> is a automation game mock up with a focus on the design of a datagram to show the data of the world. 
       In this mock up there are 4 different areas called sectors which are independent of each other, each sectors have different machines and other elements typical of automation games like energy generators, resource extractors and assemblers.
       <br/><br/>
-     For this project I worked compleatly by myself in every aspect of it. 
+     For this project I worked compleatly by myself in every aspect of it. I did all the progamming, for both the different machines that generate the data for the simulation and the graphics where that data is displayed,
+     except for the lines charts that I used a Unity Package called <a target="_blank" href="https://github.com/XCharts-Team/XCharts/tree/master?tab=readme-ov-file"> XCharts</a>. 
       
             </div>
             <div class="paragraph center">
