@@ -93,12 +93,12 @@ export default [
         Windows build available on <a href="https://lsara-mm.github.io/Project-II-RPG/" target="_blank"> GitHub</a>
         </div>
     </div>
-    
+    <!--
 <center>
         <img src="img/projects/TwistedTent_Dungeon1.png" alt="Dungeon1" >
         <img src="img/projects/TwistedTent_Dungeon2.png" alt="Dungeon2" >
 </center>
-
+-->
         
     
     
