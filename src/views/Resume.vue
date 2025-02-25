@@ -63,7 +63,7 @@
         <SkillRate name="Wwise" :rate="2" />
       </div>
 
-      <div class="Other Skills" style="float:right>
+      <div class="Other Skills" >
         <h3>Other Skills</h3>
         <SkillRate name="Unity" :rate="4" />
         <SkillRate name="Excel" :rate="4" />
@@ -72,7 +72,7 @@
         <SkillRate name="Adobe Ilustrator" :rate="3" />
         <SkillRate name="Maya" :rate="2" />
         <SkillRate name="Substance Painter" :rate="1" />
-      </div>
+      </div style="float:right>
       <div style="clear:both" />
 
       <h2>Education</h2>
