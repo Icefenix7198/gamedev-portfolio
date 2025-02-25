@@ -25,11 +25,11 @@ const routes: Array<RouteConfig> = [
     name: 'Other Projects',
     component: () => import(/* webpackChunkName: "about" */ '../views/OtherProjects.vue')
   },
-  {
+  <!-- {
     path: '/contact',
     name: 'Contact',
     component: () => import(/* webpackChunkName: "about" */ '../views/Contact.vue')
-  },
+  }, -->
   {
     path: '/404',
     name: 'NotFound',
