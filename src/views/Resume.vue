@@ -53,7 +53,7 @@
 -->
       <h2>Skills</h2>
 
-      <div class="Code Skills">
+      <div class="Code Skills" style="float:left">
         <h3>Code Skills</h3>
         
         <SkillRate name="C++" :rate="3" />
