@@ -53,23 +53,25 @@
 -->
       <h2>Skills</h2>
 
-      <div class="skill-set">
-        <h3>Lethal</h3>
-        <SkillRate name="Handguns" :rate="2.5" />
-        <SkillRate name="Rifles" :rate="5" />
-        <SkillRate name="Shotguns" :rate="5" />
-        <SkillRate name="Machineguns" :rate="5" />
-        <SkillRate name="Missile launchers" :rate="5" />
-        <SkillRate name="Knives" :rate="5" />
-        <SkillRate name="Hand to hand combat" :rate="5" />
+      <div class="Code Skills">
+        <h3>Code Skills</h3>
+        
+        <SkillRate name="C++" :rate="3" />
+        <SkillRate name="C#" :rate="3" />
+        <SkillRate name="Python" :rate="1" />
+        <SkillRate name="Flutter" :rate="2" />
+        <SkillRate name="Wwise" :rate="2" />
       </div>
 
-      <div class="skill-set">
-        <h3>Non-lethal</h3>
-        <SkillRate name="Sneaking" :rate="1" />
-        <SkillRate name="Negotiation" :rate="1" />
-        <SkillRate name="Seduction" :rate="1" />
-        <SkillRate name="Sense of humor" :rate="2" />
+      <div class="Other Skills">
+        <h3>Other Skills</h3>
+        <SkillRate name="Unity" :rate="4" />
+        <SkillRate name="Excel" :rate="4" />
+        <SkillRate name="GitHub" :rate="3" />
+        <SkillRate name="Adobe Photoshop" :rate="3" />
+        <SkillRate name="Adobe Ilustrator" :rate="3" />
+        <SkillRate name="Maya" :rate="2" />
+        <SkillRate name="Substance Painter" :rate="1" />
       </div>
       <div style="clear:both" />
 
