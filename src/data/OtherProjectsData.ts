@@ -31,19 +31,18 @@ export default [
         </div>
         -->
     `, "#c10606", true, true),
-    new ProjectData("project-7", "Drew Blood", "img/projects/project-7-icon.png", `
+    new ProjectData("project-7", "D&D analysis and rebalance", "img/projects/DnD-Emblem.png", `
     <div class="paragraph">
-                <strong>Drew Blood</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-                <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@karolina-grabowska">Karolina Grabowska</a>.
+                This is an analysis I did for the tabletop roleplaying game <strong>Dungeons and Dragons 5th Edition (2014) </strong> on a spreedsheet using formulas to calculate diferent metrics 
+                and giving new features to try to make gameplay more balanced and reduce powercreep.
+                <br/>Data can be found <a target="_blank" href="https://docs.google.com/spreadsheets/d/1ZbvJzJT3xySmzs-Fnf4qM9VBFbLObpns31SWlJz8Wr4/edit?usp=sharing">here</a>.
             </div>
 
             <div class="paragraph">
-              Main features :
+              Notes:
               <ul>
-              <li>Some stuff</li>
-              <li>Some great stuff</li>
-              <li>More awesome stuff</li>
-              <li>And then some</li>
+              <li>In the formulas sheet you can see the formulas used for the damage per round (DPR) step by step to be more undestandable, with a generic format to be usable to calculate probabilities for other things that aren't DnD </li>
+              <li>Enemies stats data is taken from <a target="_blank" href="https://www.reddit.com/r/dndnext/comments/jnol3b/table_of_average_acs_saving_throws_by_cr/">this Reddit Post</a></li>
               </ul>
           </div>
 
