@@ -11,24 +11,25 @@ export default [
       
             </div>
             <div class="paragraph center">
-              <a href="https://www.microsoft.com/en-us/p/some-app" target="_blank"><img src="img/projects/ms-store-logo.png" alt="MS Store button" /></a>
+              <img src="img/projects/Factorial.png" alt="Board">
           </div>
 
           <div class="paragraph">
             Main features :
             <ul>
-            <li>Some stuff</li>
-            <li>Some great stuff</li>
-            <li>More awesome stuff</li>
-            <li>And then some</li>
+            <li>A Datagram with: a Tree Map to show remaining materials on mines for extracttion, a Sankey dyagram to show stored resources and how they transform and a Line chart to show energy consume with 2 different display modes </li>
+            <li>A simple tutotial to learn the basics on how to use the simulation</li>
+            <li>A mode to see the machines producing instead of the datagram</li>
+            <li>All the data is stored on a CSV on the Data folder</li>
             </ul>
         </div>
-
+<!--
         <div class="paragraph center">
           <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Sultans Of Sing Screenshot" />
           <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Sultans Of Sing Screenshot" />
           <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Sultans Of Sing Screenshot" /> 
         </div>
+        -->
     `, "#c10606", false, true),
     new ProjectData("project-7", "Drew Blood", "img/projects/project-7-icon.png", `
     <div class="paragraph">
