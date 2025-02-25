@@ -94,18 +94,11 @@ export default [
     </div>
 </div>
     </br>
-
-    <div class="paragraph center">
-    <!--
-        <img src=img/projects/Suits_01.png" alt="Suits Image1" />
-        <img src=img/projects/Suits_02.png" alt="Suits Image2" />
-        <img src=img/projects/Suits_03.png" alt="Suits Image3" />
-        <img src=img/projects/Suits_04.png" alt="Suits Image4" />
-        -->
-        
+<center>
         <img src="img/projects/TwistedTent_Dungeon1.jpg" alt="Board" style="float:left">
         <img src="img/projects/TwistedTent_Dungeon2.jpg" alt="Board" style="float:rigth">
-        <!-- <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="Optimistic Chubby Screenshot" /> -->
+</center>
+
     </div>
         
     
