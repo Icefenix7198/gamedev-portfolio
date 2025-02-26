@@ -53,5 +53,5 @@ export default [
             </div>
             -->
             
-            </div>`, "#c10606"),
+            </div>`, "#00AC47"),
 ];
