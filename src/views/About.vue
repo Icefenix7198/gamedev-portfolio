@@ -4,7 +4,7 @@
 
     <div class="paragraph">
       <div>
-        I'm a video game design and development student from Spain, primarily focused on the <strong>design</strong> side of development. While my main interest lies in design, specially character design and level design, I also enjoy the programing aspects of video games, although in the last one I'm currently lacking.<br/>
+        I'm a video game design and development student from Spain, primarily focused on the <strong>design</strong> side of development.<br/>
         While my main interest lies in design, specially characther design and level design , I also enjoy the programing aspects of videogames, although I'm more lacking in this aspect.
       </div>
 
