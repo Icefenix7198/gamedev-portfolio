@@ -24,8 +24,8 @@ jobs:
       - name: Build project
         run: npm run build  # Genera los archivos estáticos
 
-      - name: Clean up old artifacts
-        run: rm -rf dist
+      #- name: Clean up old artifacts
+      #  run: rm -rf dist
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
