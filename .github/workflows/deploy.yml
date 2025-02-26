@@ -25,10 +25,10 @@ jobs:
         run: npm run build  # Genera los archivos estáticos
 
       - name: Clean up old artifacts
-        run: rm -rf ./dist
+        run: rm -rf dist
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages  # Sube los archivos a la rama 'gh-pages'
-          folder: ./dist  # La carpeta que contiene los archivos estáticos
+          folder: dist  # La carpeta que contiene los archivos estáticos
