@@ -31,4 +31,4 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages  # Sube los archivos a la rama 'gh-pages'
-          folder: dist  # La carpeta que contiene los archivos estáticos
+          folder: ./dist  # La carpeta que contiene los archivos estáticos
