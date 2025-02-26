@@ -21,9 +21,11 @@
     
     </div>
     -->
+    <!--
     <div class="photo">
       <img src="img/resume-photo.png" alt="Photo of John" />
     </div>
+    -->
 
     <div style="clear:both"></div>
 
