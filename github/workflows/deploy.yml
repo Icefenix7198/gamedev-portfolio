@@ -1,0 +1,31 @@
+name: Deploy Vue.js to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # Se ejecuta cuando haces push a 'main'
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest  # Corre en un servidor con Ubuntu
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3  # Descarga el código del repositorio
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16  # Usa Node.js 16 (puedes cambiarlo si usas otra versión)
+
+      - name: Install dependencies
+        run: npm install  # Instala dependencias
+
+      - name: Build project
+        run: npm run build  # Genera los archivos estáticos
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages  # Sube los archivos a la rama 'gh-pages'
+          folder: dist  # La carpeta que contiene los archivos estáticos
