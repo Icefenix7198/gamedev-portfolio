@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>Resume</h1>
-
+<!--
     <div class="paragraph">
       I'm <strong>John Matrix</strong>, a former Delta Force operative with lots of experience, lots of training and huge muscles.
       <br />After graduating from kindergarten, I've been enrolled in the army for 25 years, where I learned to destroy things in an amazing number of ways.
@@ -20,6 +20,7 @@
       </div>
     
     </div>
+    -->
     <div class="photo">
       <img src="img/resume-photo.png" alt="Photo of John" />
     </div>
