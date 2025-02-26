@@ -30,7 +30,7 @@ export default Vue.extend({
   },
   methods: {
     getImage: function(url: string) {
-      console.log("fetching image " + url);
+      //console.log("fetching image " + url);
     }
   }
 });
