@@ -30,7 +30,7 @@ export default [
           <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Sultans Of Sing Screenshot" /> 
         </div>
         -->
-    `, "#c10606", true, true),
+    `, "#4CB4F6", true, true),
     new ProjectData("project-7", "D&D analysis and rebalance", "img/projects/DnD-Emblem.png", `
     <div class="paragraph">
                 This is an analysis I did for the tabletop roleplaying game <strong>Dungeons and Dragons 5th Edition (2014) </strong> on a spreedsheet using formulas to calculate diferent metrics 
@@ -53,5 +53,5 @@ export default [
             </div>
             -->
             
-            </div>`, "#4CB4F6"),
+            </div>`, "#c10606"),
 ];
