@@ -4,11 +4,11 @@
 
     <div class="paragraph">
       <div>
-        I'm a video game design and development student from Spain, primarily focused on the <strong>design</strong> side of development.<br/>
-        While my main interest lies in game design, especially character and level design, I also enjoy the programming aspects of video games, although I'm lacking in this aspect.
+        Hi! My name is Éric Segovia and I'm a video game developer from Spain, primarily focused on the <strong>design</strong> side of development.<br/>
+        While my main interest lies in game design, especially combat and level design, I also enjoy the programming aspects of video games, although I'm lacking in this aspect.
       </div>
 
-      <!--<div style="margin-top: 20px;">I've worked on  <router-link to="/game-projects">stuff</router-link>, on <router-link to="/other-projects">other stuff</router-link>, and took part in <router-link to="/resume">a few things</router-link> as well.</div> -->
+      <div style="margin-top: 20px;"> You can see the <router-link to="/game-projects">videogames I worked in</router-link>, and <router-link to="/other-projects">other design projects</router-link>, which aren't videogames.</div>
 
       <div style="margin-top: 40px;">Aside from video games, I am also passionate about martial arts, specifically judo, in which I achieved the rank of black belt, and board games, primarily tabletop roleplaying games, as they allow me to create stories with other people in an immersive way.</div>
     </div>
@@ -19,7 +19,18 @@
 
     <div style="clear:both"></div>
 
+      <div>
+        Here you have my CV if you want a quick summary about my skills.<br/>
+      </div>
+          <div style="margin-top:20px; margin-bottom:20px;">
+        <a class="download-link" href="d/CV-Eng.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF</a>
+        <a class="download-link" href="d/CV-Esp.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Descargar en PDF</a>
+        <div style="clear:both"></div>
+      </div>
+
   </div>
+
+  
 </template>
 
 <style scoped>

@@ -1,26 +1,29 @@
 <template>
   <div>
     <h1>Resume</h1>
-<!--
+
     <div class="paragraph">
-      I'm <strong>John Matrix</strong>, a former Delta Force operative with lots of experience, lots of training and huge muscles.
-      <br />After graduating from kindergarten, I've been enrolled in the army for 25 years, where I learned to destroy things in an amazing number of ways.
-      <br />I joined the Delta Force because I thought it was Greek lessons, but I quickly adapted to this unexpected environment and became a key element.
-      <br />I love teamwork, but I can also go in solo depending on the mission requirements.
-      <br />
-      <br />Right now I'm trying to find inner peace after I've read some personal development books. I'm looking for a monk job so if you have any opportunity feel free to 
+      <!-- I am a Video Game Designer, focused on both combat
+and level design with notions of programming.
+My main interest is creating interesting but balanced
+experiences where players can find joy in discovering.
+Although I have little professional experience, I have
+worked on multiple team projects and I am eager to learn
+and express my opinion to help the project.
+
+ I'm looking for a game designer job as an intern or junior so if you have any opportunity feel free to 
       <router-link to="/contact">contact me</router-link>.
       <br />
-      <br />Besides war, I'm passionate about firearms, martial arts, explosions, push-ups and flowers.
+      <br />Besides war, I'm passionate about firearms, martial arts, explosions, push-ups and flowers. -->
 
-      <div style="margin-top:20px; margin-bottom:20px;">
-        <a class="download-link" href="d/resume-en.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF 🇬🇧</a>
-        <a class="download-link" href="d/cv-fr.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Descargar en PDF 🇫🇷</a>
+<!--       <div style="margin-top:20px; margin-bottom:20px;">
+        <a class="download-link" href="d/CV-Eng.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF</a>
+        <a class="download-link" href="d/CV-Esp.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Descargar en PDF</a>
         <div style="clear:both"></div>
-      </div>
+      </div> -->
     
     </div>
-    -->
+
     <!--
     <div class="photo">
       <img src="img/resume-photo.png" alt="Photo of John" />
@@ -55,6 +58,27 @@
 
       <div class="tech-stack">Firearms, knives, grenades, Hummer vehicle, parachute,...</div>
 -->
+      
+
+      <h2>Education</h2>
+
+      <h3>Colegi Mare de Deu dels Angels (2019-2021)</h3>
+      <h4>Technological Baccalaureate</h4>
+
+      <h3>Centre de la Imatge i la Tecnologia Multimedia(CITM) — UPC (2021-2025)</h3>
+      <h4>Degree in Video Game Design and Development</h4>
+
+      <h2>Languages</h2>
+
+      <h3>Spanish</h3>
+      <div>Native Level</div>
+
+      <h3>Catalan</h3>
+      <div>Native Level</div>
+
+      <h3>English</h3>
+      <div>C1 level</div>
+
       <h2>Skills</h2>
 
       <div class="Code Skills" style="float:left">
@@ -78,25 +102,6 @@
         <SkillRate name="Substance Painter" :rate="1" />
       </div>
       <div style="clear:both" />
-
-      <h2>Education</h2>
-
-      <h3>Colegi Mare de Deu dels Angels (2019-2021)</h3>
-      <h4>Technological Baccalaureate</h4>
-
-      <h3>Centre de la Imatge i la Tecnologia Multimedia(CITM) — UPC (2021-Current)</h3>
-      <h4>Degree in Video Game Design and Development</h4>
-
-      <h2>Languages</h2>
-
-      <h3>Spanish</h3>
-      <div>Native Level</div>
-
-      <h3>Catalan</h3>
-      <div>Native Level</div>
-
-      <h3>English</h3>
-      <div>C1 level</div>
 
 <!--
       <h2>Besides...</h2>

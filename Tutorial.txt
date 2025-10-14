@@ -1,6 +1,8 @@
-En CMD
+En CMD o PowerShell
 
 0. cd C:\Users\Eric\OneDrive\Documentos\GitHub\gamedev-portfolio
-1. set NODE_OPTIONS=--openssl-legacy-provider
+1. set NODE_OPTIONS=--openssl-legacy-provider o $env:NODE_OPTIONS = '--openssl-legacy-provider'
 2. npm install
 3. npm run serve
+
+IMPORTANTE: Tener node.js, si no se tiene se instala desde 
