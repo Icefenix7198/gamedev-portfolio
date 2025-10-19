@@ -3,10 +3,11 @@
     <h1>Resume</h1>
 
     <div class="paragraph">
-      <!-- I am a Video Game Designer, focused on both combat
-and level design with notions of programming.
-My main interest is creating interesting but balanced
+       I am a Video Game Designer, focused on both combat
+and level design with notions of programming. My main interest is creating interesting but balanced
 experiences where players can find joy in discovering.
+<br />
+<br />
 Although I have little professional experience, I have
 worked on multiple team projects and I am eager to learn
 and express my opinion to help the project.
@@ -14,14 +15,15 @@ and express my opinion to help the project.
  I'm looking for a game designer job as an intern or junior so if you have any opportunity feel free to 
       <router-link to="/contact">contact me</router-link>.
       <br />
-      <br />Besides war, I'm passionate about firearms, martial arts, explosions, push-ups and flowers. -->
 
-<!--       <div style="margin-top:20px; margin-bottom:20px;">
+    
+
+          <div style="margin-top:20px; margin-bottom:20px;">
         <a class="download-link" href="d/CV-Eng.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF</a>
         <a class="download-link" href="d/CV-Esp.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Descargar en PDF</a>
         <div style="clear:both"></div>
-      </div> -->
-    
+      </div>
+
     </div>
 
     <!--
@@ -79,9 +81,9 @@ and express my opinion to help the project.
       <h3>English</h3>
       <div>C1 level</div>
 
-      <h2>Skills</h2>
+      <!-- <h2>Skills</h2> --> <!--Needs to import Skills from bellow-->
 
-      <div class="Code Skills" style="float:left">
+      <!-- <div class="Code Skills" style="float:left">
         <h3>Code Skills</h3>
         
         <SkillRate name="C++" :rate="3" />
@@ -89,9 +91,9 @@ and express my opinion to help the project.
         <SkillRate name="Python" :rate="1" />
         <SkillRate name="Flutter" :rate="2" />
         <SkillRate name="Wwise" :rate="2" />
-      </div>
+      </div> -->
 
-      <div class="Other Skills" style="float:right">
+      <!-- <div class="Other Skills" style="float:right">
         <h3>Other Skills</h3>
         <SkillRate name="Unity" :rate="4" />
         <SkillRate name="Excel" :rate="4" />
@@ -100,8 +102,8 @@ and express my opinion to help the project.
         <SkillRate name="Adobe Ilustrator" :rate="3" />
         <SkillRate name="Maya" :rate="2" />
         <SkillRate name="Substance Painter" :rate="1" />
-      </div>
-      <div style="clear:both" />
+      </div> 
+      <div style="clear:both" />-->
 
 <!--
       <h2>Besides...</h2>
@@ -125,15 +127,15 @@ and express my opinion to help the project.
 
 <script lang="ts">
 import Vue from "vue";
-import SkillRate from "@/components/SkillRate.vue";
+/* import SkillRate from "@/components/SkillRate.vue";
 
 export default Vue.extend({
   name: "Resume",
   components: {
     SkillRate,
   },
-});
-</script>
+});*/
+</script> 
 
 <style scoped>
 h2 {

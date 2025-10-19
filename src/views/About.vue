@@ -19,14 +19,7 @@
 
     <div style="clear:both"></div>
 
-      <div>
-        Here you have my CV if you want a quick summary about my skills.<br/>
-      </div>
-          <div style="margin-top:20px; margin-bottom:20px;">
-        <a class="download-link" href="d/CV-Eng.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF</a>
-        <a class="download-link" href="d/CV-Esp.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Descargar en PDF</a>
-        <div style="clear:both"></div>
-      </div>
+      
 
   </div>
 

@@ -1,6 +1,36 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
+    new ProjectData("project-2", "Chimeras", "img/projects/Chimeras.png", `
+    <div class="paragraph">
+        <strong>Chimeras</strong> is a competing deckbuilding board game where you combine animal parts to figth your oponents.
+        <br/><br/>
+        I worked on the game balance of the game and designed the elemental affinity system with other members of the team to have each synergy balanced against each other.
+    </div>
+    <div class="paragraph center">
+        <img src="img/projects/ChimerasBoard.png" alt="Board">
+    </div>
+
+    <div class="paragraph">
+        Main features :
+        <ul>
+        <li>A game for 2 to 4 players</li>
+        <li>100 different cards</li>
+        <li>Elemental affinity mechanic that give more depth to which animal parts to use</li>
+        </ul>
+    </div>
+
+    <div class="paragraph">
+    <div class="notice">
+        Rulebook available on <a href="https://drive.google.com/file/d/1G_u2itUwEb2oRL0irykxBWPwe6CEnRQ3/view?usp=sharing" target="_blank">PDF</a> (Spanish Only).
+    </div>
+    </div>
+
+    <div class="paragraph center">
+
+    </div>
+    `, "#951990",true,true),
+
     new ProjectData("project-6", "Factorial(!)", "img/projects/Factorial.gif", `
     <div class="paragraph">
       <strong>Factorial(!)</strong> is a automation game mock up with a focus on the design of a datagram to show the data in real time of the world. 
@@ -30,11 +60,11 @@ export default [
           <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Sultans Of Sing Screenshot" /> 
         </div>
         -->
-    `, "#4CB4F6", true, true),
+    `, "#4CB4F6", true, false),
     new ProjectData("project-7", "D&D analysis and rebalance", "img/projects/DnD-Emblem.png", `
     <div class="paragraph">
                 This is an analysis I did for the tabletop roleplaying game <strong>Dungeons and Dragons 5th Edition (2014) </strong> on a spreedsheet using formulas to calculate diferent metrics 
-                and giving new features to try to make gameplay more balanced and reduce powercreep.
+                and giving new features to try to make gameplay more balanced.
                 <br/>Data can be found <a target="_blank" href="https://docs.google.com/spreadsheets/d/1ZbvJzJT3xySmzs-Fnf4qM9VBFbLObpns31SWlJz8Wr4/edit?usp=sharing">here</a>.
             </div>
 

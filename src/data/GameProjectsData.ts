@@ -1,6 +1,42 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
+
+new ProjectData("project-0", "Astrion: Lost Godhood", "img/projects/AstrionPortada.png", 
+    `
+    <div class="paragraph">
+     <strong>Astrion: Lost Godhood</strong> is the demo of a Metroidvania game developed as my end of degree project. The demo has a 20 minutes duration and features a combination of puzzles, combat and platforimg challenges.
+     <br/><br/>
+     I worked as the level designers of the project, defining the metrics of the game, the camera, and creating each of the 52 rooms of the demo. I also worked on the development of some mechanics of the world like moving platform in a prototype fashion.
+     <!-- <br/>Image by <a href="https://www.pexels.com/fr-fr/@knownasovan" target="_blank">OVAN</a>. -->
+    </div>
+    
+    <div class="paragraph center">
+        <iframe class="youtube" src="https://www.youtube.com/embed/0UxGw4vGDuQ?si=_Jo6ioAhGo5WwL7o" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div class="paragraph center">
+        <a href="https://ericsb.itch.io/metroidvania-demo-tfg" target="_blank"><img src="img/projects/itchio-logo.svg" alt="Itch.io badge" /></a>
+    </div>
+
+    <div class="paragraph">
+        Main features :
+        <ul>
+        <li> 20 minutes duration </li>
+        <li> Ability to change the weather to modify sligthly the enviroment and solve puzzles. </li>
+        <li> Combat with parry system </li>
+        </ul>
+    </div>
+
+    <div class="paragraph center">
+    <!--
+        <img src=img/projects/Suits_01.png" alt="Suits Image1" />
+        <img src=img/projects/Suits_02.png" alt="Suits Image2" />
+        <img src=img/projects/Suits_03.png" alt="Suits Image3" />
+        <img src=img/projects/Suits_04.png" alt="Suits Image4" />
+        -->
+    </div>
+    `, "#16ADEF", true,true),
+
     new ProjectData("project-1", "Suits", "img/projects/Suits.png", 
     `
     <div class="paragraph">
@@ -35,36 +71,8 @@ export default [
         <img src=img/projects/Suits_04.png" alt="Suits Image4" />
         -->
     </div>
-    `, "#7649AD", true,true),
-    new ProjectData("project-2", "Chimeras", "img/projects/Chimeras.png", `
-    <div class="paragraph">
-        <strong>Chimeras</strong> is a competing deckbuilding board game where you combine animal parts to figth your oponents.
-        <br/><br/>
-        I worked on the game balance of the game and designed the elemental affinity system with other members of the team to have each synergy balanced against each other.
-    </div>
-    <div class="paragraph center">
-        <img src="img/projects/ChimerasBoard.png" alt="Board">
-    </div>
+    `, "#7649AD", true,false),
 
-    <div class="paragraph">
-        Main features :
-        <ul>
-        <li>A game for 2 to 4 players</li>
-        <li>100 different cards</li>
-        <li>Elemental affinity mechanic that give more depth to which animal parts to use</li>
-        </ul>
-    </div>
-
-    <div class="paragraph">
-    <div class="notice">
-        Rulebook available on <a href="https://drive.google.com/file/d/1G_u2itUwEb2oRL0irykxBWPwe6CEnRQ3/view?usp=sharing" target="_blank">PDF</a> (Spanish Only).
-    </div>
-    </div>
-
-    <div class="paragraph center">
-
-    </div>
-    `, "#951990",true,false),
     new ProjectData("project-3", "Twisted Tent", "img/projects/twistedTent.png", `
     
     <div class="paragraph">
