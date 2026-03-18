@@ -24,6 +24,7 @@
         :title="popupTitle"
         :htmlContent="popupContent"
         :color="popupColor"
+        :images="popupImages"
       />
     </div>
 </template>
@@ -46,7 +47,8 @@ export default Vue.extend({
       showPopup: false,
       popupTitle: "",
       popupColor: "",
-      popupContent: ""
+      popupContent: "",
+      popupImages: [] as string[]
     };
   },
   methods: {
@@ -57,6 +59,7 @@ export default Vue.extend({
       this.popupTitle = item.name;
       this.popupColor = item.accentColor;
       this.popupContent = item.htmlDescription;
+      this.popupImages = item.images;
       this.showPopup = true;
       window.scrollTo(0,0);
     },

@@ -2,13 +2,12 @@ import ProjectData from '@/data/ProjectData.ts'
 
 export default [
 
-new ProjectData("project-0", "Astrion: Lost Godhood", "img/projects/AstrionPortada.png", 
-    `
+    new ProjectData("project-0", "Astrion: Lost Godhood", "img/projects/AstrionPortada.png",
+        `
     <div class="paragraph">
      <strong>Astrion: Lost Godhood</strong> is the demo of a Metroidvania game developed as my end of degree project. The demo has a 20 minutes duration and features a combination of puzzles, combat and platforimg challenges.
      <br/><br/>
-     I worked as the level designers of the project, defining the metrics of the game, the camera, and creating each of the 52 rooms of the demo. I also worked on the development of some mechanics of the world like moving platform in a prototype fashion.
-     <!-- <br/>Image by <a href="https://www.pexels.com/fr-fr/@knownasovan" target="_blank">OVAN</a>. -->
+     
     </div>
     
     <div class="paragraph center">
@@ -19,26 +18,18 @@ new ProjectData("project-0", "Astrion: Lost Godhood", "img/projects/AstrionPorta
     </div>
 
     <div class="paragraph">
-        Main features :
+        My contributions:
         <ul>
-        <li> 20 minutes duration </li>
-        <li> Ability to change the weather to modify sligthly the enviroment and solve puzzles. </li>
-        <li> Combat with parry system </li>
+        <li> Created a Spatial Guide to define the rules for the level design. </li>
+        <li> Developed the game camera </li>
+        <li> Designed and built in editor all the 52 rooms of the demo </li>
+        <li> Developed the basic mechanics to enhace the level design like moving platforms, saving destruction of elements and collective upgrades. </li>
         </ul>
     </div>
+    `, "#16ADEF", true, true),
 
-    <div class="paragraph center">
-    <!--
-        <img src=img/projects/Suits_01.png" alt="Suits Image1" />
-        <img src=img/projects/Suits_02.png" alt="Suits Image2" />
-        <img src=img/projects/Suits_03.png" alt="Suits Image3" />
-        <img src=img/projects/Suits_04.png" alt="Suits Image4" />
-        -->
-    </div>
-    `, "#16ADEF", true,true),
-
-    new ProjectData("project-1", "Suits", "img/projects/Suits.png", 
-    `
+    new ProjectData("project-1", "Suits", "img/projects/Suits.png",
+        `
     <div class="paragraph">
      <strong>Suits</strong> is a 2D Platfomer-Puzzle game developed for the 8th Gran CITM Game Jam, in which it obtained the Best Game award and an honorific mention of a prize by incorporating an intersectional gender perspective into storytelling.
      <br/><br/>
@@ -62,16 +53,8 @@ new ProjectData("project-0", "Astrion: Lost Godhood", "img/projects/AstrionPorta
         <li>And a multiple worlds mechanic where the player can see new things by rotating a cube. </li>
         </ul>
     </div>
-
-    <div class="paragraph center">
-    <!--
-        <img src=img/projects/Suits_01.png" alt="Suits Image1" />
-        <img src=img/projects/Suits_02.png" alt="Suits Image2" />
-        <img src=img/projects/Suits_03.png" alt="Suits Image3" />
-        <img src=img/projects/Suits_04.png" alt="Suits Image4" />
-        -->
-    </div>
-    `, "#7649AD", true,false),
+    <div id="project-carousel"></div>
+    `, "#7649AD", true, false, ["img/projects/Suits_01.png", "img/projects/Suits_02.png", "img/projects/Suits_03.png", "img/projects/Suits_04.png"]),
 
     new ProjectData("project-3", "Twisted Tent", "img/projects/twistedTent.png", `
     
@@ -81,7 +64,7 @@ new ProjectData("project-0", "Astrion: Lost Godhood", "img/projects/AstrionPorta
         For this game I almost fully designed the combat system, designed all the monsters and characther stats , designed the dungeon layouts and helped in the developement of the features in the game.
         <br/>Teams <a target="_blank" href="https://lsara-mm.github.io/Project-II-RPG/"> github page</a>.
     </div>
-    
+    <div id="project-carousel"></div>
     <div class="paragraph center">
         <iframe class="youtube" src="https://www.youtube.com/embed/sCTet2msyBs?si=MRCtvuc6q2O_dr2q" frameborder="0" allowfullscreen></iframe>
     </div>
@@ -101,16 +84,8 @@ new ProjectData("project-0", "Astrion: Lost Godhood", "img/projects/AstrionPorta
         Windows build available on <a href="https://lsara-mm.github.io/Project-II-RPG/" target="_blank"> GitHub</a>
         </div>
     </div>
-    <!--
-<center>
-        <img src="img/projects/TwistedTent_Dungeon1.png" alt="Dungeon1" >
-        <img src="img/projects/TwistedTent_Dungeon2.png" alt="Dungeon2" >
-</center>
--->
-        
     
-    
-    `, "#B31A0B",false,true),
+    `, "#B31A0B", false, true, ["img/projects/TwistedTent_Dungeon1.png", "img/projects/TwistedTent_Dungeon2.png"]),
     new ProjectData("project-4", "Dreamward", "img/projects/Dreamward.png", `
     <div class="paragraph">
     <strong>Dreamward</strong> is a 2D Bossrush game developed for the 7th Gran CITM Game Jam, in which it obtained an honorific mention of best art.

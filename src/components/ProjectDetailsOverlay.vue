@@ -7,7 +7,10 @@
         <h1 class="dialog-title">{{ title }}</h1>
         <div @click="$emit('close')" class="dialog-close"><i class="fa fa-times fa-lg fa-fw"></i></div>
         <div class="dialog-content">
-          <div v-html="htmlContent"></div>
+          <div v-html="contentParts.before"></div>
+          <ImageCarousel v-if="images && images.length > 0" :images="images" />
+          <div v-html="contentParts.after"></div>
+          
           <div class="dialog-bottom">
           <a @click="$emit('close')" class="dialog-close-button">Close</a>
         </div>
@@ -19,18 +22,40 @@
 
 <script lang="ts">
 import Vue from "vue";
+import ImageCarousel from "@/components/ImageCarousel.vue";
 
 export default Vue.extend({
   name: "ProjectDetailsOverlay",
+  components: {
+    ImageCarousel
+  },
   props: {
     visible: Boolean,
     color: String,
     title: String,
     htmlContent: String,
+    images: Array as () => string[],
+  },
+  computed: {
+    contentParts(): { before: string; after: string } {
+      const placeholder = '<div id="project-carousel"></div>';
+      if (this.htmlContent && this.htmlContent.includes(placeholder)) {
+        const parts = this.htmlContent.split(placeholder);
+        return {
+          before: parts[0],
+          after: parts[1]
+        };
+      }
+      // If no placeholder, put it at the top by default
+      return {
+        before: "",
+        after: this.htmlContent
+      };
+    }
   },
   methods: {
-    getImage: function(url: string) {
-      //console.log("fetching image " + url);
+    getImage: function() {
+      //console.log("fetching image ");
     }
   }
 });

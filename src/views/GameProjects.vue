@@ -1,10 +1,10 @@
 <template>
   <div>
-    <h1>Stuff</h1>
+    <h1>Videogames</h1>
 
-    <div style="margin-bottom: 30px;">
+  <!--   <div style="margin-bottom: 30px;">
       The following are some video game project I've made or heavily contributed to during collage. You can see a synopsys of what the project is about, what I contributed with and the main features of the project.
-    </div>
+    </div> -->
 
     <ProjectsList v-bind:projects="projects" />
 
